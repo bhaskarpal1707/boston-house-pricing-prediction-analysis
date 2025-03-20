@@ -50,3 +50,12 @@ The **Boston House Prices Dataset** was collected in 1978 and contains **506 ent
    ```bash
    git clone <repository_url>
 
+   /boston-house-pricing-prediction  
+ ├── data/               # Dataset files  
+ ├── notebooks/          # Jupyter notebooks  
+ ├── scripts/            # Python scripts for model training and evaluation  
+ ├── README.md           # Project documentation  
+ ├── requirements.txt    # List of required libraries  
+ └── results/            # Model performance outputs  
+
+
