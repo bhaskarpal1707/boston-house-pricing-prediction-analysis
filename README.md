@@ -15,3 +15,17 @@ Boston Housing Dataset Attribute Information (in order):
         - B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
         - LSTAT    % lower status of the population
         - MEDV     Median value of owner-occupied homes in $1000's
+
+# Libraries
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Algorithms
+Linear Regression
+Decision Tree
+Random Forest
+Extra Tress
+XGBoost
+Mean Squared Error: 10.0
